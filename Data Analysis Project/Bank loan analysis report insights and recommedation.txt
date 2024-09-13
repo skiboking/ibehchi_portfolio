@@ -1,0 +1,72 @@
+ Report on Bank Loan System
+
+Overview:
+
+This report provides a detailed analysis of the bank's loan system based on recent data. The system handled a total of 38,650 loan applications, with a substantial total funded amount of $436 million. This report will break down the data into various categories, including good and bad loans, funded amounts, and interest rates.
+
+•	Key Figures: 
+
+    -Total Loan Applications:  38,650
+    -Total Funded Amount:  $436 million
+    -Total Received Amount:  $474 million
+    - Average Interest Rate:  12%
+
+•	Loan Categories: 
+
+•	Good Loans:
+o	Applications: 33,000 (86.2% of total applications)
+o	Funded Amount:  $371 million
+o	Received Amount: $436 million
+o	Percentage of Total Funded Amount: 85%
+
+•	Bad Loans:
+o	Applications:  5,300 (13.8% of total applications)
+o	Funded Amount:  $66 million
+o	Received Amount:  $37 million
+o	Percentage of Total Funded Amount: 15%
+
+Detailed Analysis:
+
+1. Good Loans:
+
+•	   Applications and Funding: 
+o	   Good loans represent 86.2% of the total loan applications, translating to 33,000 individual applications.
+o	   The total amount funded for these good loans is $371 million, which is approximately 85% of the overall funded amount.
+
+•	Financial Summary:
+o	The bank received $436 million from good loans, indicating a significant proportion of the total   received amount.
+
+•	         Interest Rate Impact:
+o	     With an average interest rate of 12%, good loans contribute substantially to the bank's interest income. This rate likely reflects the bank's pricing strategy for risk management and profitability.
+
+2.  Bad Loans: 
+•	Applications and Funding:
+o	Bad loans account for 13.8% of the total loan applications, equating to 5,300 applications.
+o	The funded amount for bad loans stands at $66 million, which represents 15% of the total funded amount.
+
+•	Financial Summary:
+o	The amount received from bad loans is $37 million, significantly less than the amount funded. This discrepancy highlights potential recovery issues or losses associated with these loans.
+
+•	Interest Rate Impact:
+o	Despite the higher risk, bad loans still adhere to the average interest rate of 12%. However, the lower recovery amount suggests that these loans may be less profitable or more problematic in terms of collection.
+
+ Conclusions:
+
+The bank's loan system demonstrates a high rate of good loans (86.2%), which contributes positively to the overall funding and recovery amounts. The substantial amount of $371 million funded and $436 million received from good loans indicates robust performance in this segment.
+
+The presence of bad loans (13.8%) presents a challenge, with a lower recovery amount of $37 million compared to the $66 million funded. This suggests potential areas for improvement in risk assessment and collection processes.
+
+The average interest rate of 12% is consistent across both good and bad loans. While this rate is standard, the financial impact varies significantly between loan categories, underscoring the importance of effective risk management.
+
+Recommendations:
+
+1. Enhanced Risk Assessment:
+   - Implement more rigorous criteria and predictive analytics to reduce the proportion of bad loans and improve the overall quality of the loan portfolio.
+
+2. Improved Collection Strategies:
+   - Develop more effective strategies for recovering amounts from bad loans to reduce the gap between funded and received amounts.
+
+3. Review Interest Rate Strategy:
+   - Assess the interest rate strategy to ensure it aligns with the risk profile of the loans and maximizes profitability without adversely affecting the loan approval rates.
+
+By addressing these areas, the bank can further enhance its loan system's efficiency and financial performance.
